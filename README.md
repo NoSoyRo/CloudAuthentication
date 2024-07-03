@@ -56,7 +56,7 @@ CloudAuthentication/
 ├── pom.xml
 └── README.md
 ```
-Contribution
+## Contribution
 Thank you for considering contributing to CloudAuthentication! To contribute, follow these steps:
 
 Fork the repository.
@@ -66,10 +66,10 @@ Push to the branch (git push origin feature/new-feature).
 Open a Pull Request on GitHub.
 Ensure your code follows the code style guidelines and that all tests pass before submitting your Pull Request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 If you have any questions, comments, or suggestions, feel free to contact me:
 
 GitHub: NoSoyRo
